@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Vue, node, express ,etc**
 
-- 📫 Reach me here **amirpc190320@gmail.com**
+- 📫 Reach me here **aamir.codes01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
